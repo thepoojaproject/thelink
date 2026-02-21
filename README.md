@@ -5,3 +5,16 @@
 
 
 <Beer />
+
+
+<script>
+import { createIcons, beer } from 'lucide';
+
+createIcons({
+  icons: {
+    beer
+  }
+});
+</script>
+
+<i data-lucide="beer"></i>  
