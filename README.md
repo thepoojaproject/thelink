@@ -18,3 +18,6 @@ createIcons({
 </script>
 
 <i data-lucide="beer"></i>  
+
+
+div class="icon-beer"></div>
