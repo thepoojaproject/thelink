@@ -21,3 +21,5 @@ createIcons({
 
 
 div class="icon-beer"></div>
+
+<div class="icon-beer"></div>
